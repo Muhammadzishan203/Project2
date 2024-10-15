@@ -2,4 +2,4 @@
 
 This project was created in local repo
 
-Created by Zishan Qureshi
+Created by Zishan Qureshi.
